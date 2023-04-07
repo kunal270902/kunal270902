@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning And Robotics
 - 🌱 I’m currently learning Third Year Engineering
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+
 
 <!---
 kunal270902/kunal270902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
