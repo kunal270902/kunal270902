@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @kunal270902
-- 👀 I’m interested in Machine Learning And Robotics
-- 🌱 I’m currently learning Third Year Engineering
-- 💞️ I’m looking to collaborate on anything
+
 
 
 <!---
